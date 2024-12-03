@@ -17,7 +17,7 @@ const createContact = async (req, res) => {
 
         let mailOptions = {
             from: 'imadiahsen8@gmail.com',
-            to: 'ppreddyseniorcare@gmail.com',
+            to: 'ppreddyrehab@gmail.com',
             subject: 'New Contact Form Submission',
             text: `You have a new contact form submission from:
             Name: ${name}
